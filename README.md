@@ -1,6 +1,6 @@
 # Building a bare-metal Kubernetes Cluster on Raspberry PI 3B+
 
-![RaspberryImage](https://github.com/ArgeeGabrielII/how-to-setup-k8-on-rpi3bp-bare-metal/blob/main/assets/img/rpi-image.jpeg | width=100)
+![RaspberryImage](<https://github.com/ArgeeGabrielII/how-to-setup-k8-on-rpi3bp-bare-metal/blob/main/assets/img/rpi-image.jpeg> | width=100)
 
 ** 2024-06-24 : Day 0 **
 _Just a note, on the time of writing, rPi5 is already released. I know, I can use that, but this 3pcs rPi3B+ is all I have. And this is enought for me to practice using Docker + Kubernetes._
