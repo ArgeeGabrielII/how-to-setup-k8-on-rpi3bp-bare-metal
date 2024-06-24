@@ -38,7 +38,7 @@ This setup simplifies management, as each node can be accessed easily and reliab
 
 ### Flashing OS Image
 
-Will Flash the OS on each of the MicroSD Cards. I will use the [Raspberry Pi Images](https://www.raspberrypi.com/software/).
+Will Flash the OS on each of the MicroSD Cards. I will use the [Raspberry Pi Imager v1.8.5](https://www.raspberrypi.com/software/).
 
 I am going to use Ubuntu Server 24.04 LTS (64 BIT). I'm using ubuntu, because i'm some how familiar already with this.
 
