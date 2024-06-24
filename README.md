@@ -6,4 +6,15 @@ _Just a note, on the time of writing, rPi5 is already released. I know, I can us
 Inventory:
 
 1. 3PCS Raspberry Pi 3b+
-2. 
+2. 1PC 32GB and 2PCS 16GB MicroSD
+3. Power Code and Power Extension
+
+Goal:
+
+1. Install [K3s](https://k3s.io)
+
+Price Reference:
+
+| Item                | Unit Price (PHP) |
+| ------------------- | ----------------:|
+| 3x Raspberry Pi 3b+ | Php 2,500.00     |
