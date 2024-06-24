@@ -24,4 +24,14 @@ For reference purposes, here's a list of parts and their price.
 | 1x 3 Layer Cluster Case | Php 750.00       |
 | **Total**               | Php 9,950.00     |
 
+### Network Topology
 
+![NetworkTopology](/assets/img/Network%20Topology.svg)
+
+The nodes and router communicate through a network switch via wired connections, with the router providing Internet access via WiFi.
+
+By keeping the cluster on a private network, I have full control over the IP addresses of each node, ensuring portability and ease of access across different networks without needing to reconfigure routers or my development environment.
+
+Each node is assigned a static IP address, facilitating predictable and straightforward cluster node discovery. The router also acts as an Internet gateway, linking the local network to the Internet.
+
+This setup simplifies management, as each node can be accessed easily and reliably through a consistent and organized network structure.
