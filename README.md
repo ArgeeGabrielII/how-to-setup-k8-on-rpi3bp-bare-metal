@@ -35,3 +35,10 @@ By keeping the cluster on a private network, I have full control over the IP add
 Each node is assigned a static IP address, facilitating predictable and straightforward cluster node discovery. The router also acts as an Internet gateway, linking the local network to the Internet.
 
 This setup simplifies management, as each node can be accessed easily and reliably through a consistent and organized network structure.
+
+### Flashing OS Image
+
+Will Flash the OS on each of the MicroSD Cards. I will use the [Raspberry Pi Images](https://www.raspberrypi.com/software/).
+
+I am going to use Ubuntu Server 24.04 LTS (64 BIT). I'm using ubuntu, because i'm some how familiar already with this.
+
